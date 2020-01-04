@@ -1,0 +1,241 @@
+.m-t30{
+    margin-top: 0px;
+}
+.m-t-100{
+    margin-top: 60px;
+}
+.m-t-200{
+    margin-top: 200px;
+}
+.m-r-20{
+    margin-right: 100px;
+}
+.m-r-50{
+    margin-right: 100px;
+}
+.m-b-20{
+    margin-bottom:20px;
+}
+
+.font-13{
+    font-size: 16px;
+
+}
+.font-30{
+    font-size: 30px;
+}
+.btn-admin{
+    border:1px solid #ccc;
+    padding: 50px;
+   
+}
+.btn-admin:hover{
+   opacity:0.7;
+   cursor:pointer;
+}
+
+
+.btn{
+    margin-left: 65px;
+}
+.btn-size{
+    border:1px solid #ccc;
+    padding: 50px;
+    padding-right: 100px;
+    
+}
+.btn-size2{
+    border:1px solid #ccc;
+    padding: 50px;
+    padding-right: 70px;
+   
+
+}
+.btn-size3{
+    border:1px solid #ccc;
+    padding: 50px;
+    padding-right: 15px;
+    
+    
+
+}
+.btn-size3:hover{
+    opacity:0.7;
+    cursor:pointer;
+
+}
+.btn-size:hover{
+    opacity:0.7;
+    cursor:pointer;
+
+}
+.btn-size2:hover{
+    opacity:0.7;
+    cursor:pointer;
+
+}
+.notDisplay{
+    display:none;
+}
+.js-error{
+    font-size: 12px;
+}
+
+
+table {
+    border: medium solid rgba(0, 0, 0, 0.493);;
+    width: 50%;
+    text-align: center;
+    margin:auto;
+    border-radius:400px;
+
+    
+    }
+    th {
+    font-family: monospace;
+    border: medium solid rgba(0, 0, 0, 0.493);;
+    width: 50%;
+    padding: 5px;
+    background-color: gray;
+    font-size: 30px ;
+    font-style: oblique;
+    border-color:rgba(0, 0, 0, 0.493);;
+
+}
+    
+    td {
+    font-family: 'Lucida Sans';
+    border:  medium solid white;
+    width: 50%;
+    padding: 5px;
+    font-size: 20px ;
+
+    text-align: center;
+    background-color: white ;
+    border-color:rgba(0, 0, 0, 0.493);
+
+    
+    }
+    caption {
+    font-family: sans-serif;
+    }
+
+
+    
+    h1{
+        margin-left: 659px;
+    }
+    .espace{
+        margin-left: 300px
+    }
+    .m-l-50px {
+        margin-left: 220px
+    }
+    .m-l-50pm {
+        margin-left: 300px;
+        margin-top: 30px
+    }   
+.toxt{
+    font-family: 'Trebuchet MS';
+    font-size: 22px;
+}
+.btn-modif {
+ border-radius: 100px;
+ color:green;
+}
+
+.btn-suppr {
+    border-radius: 100px;
+    color: red;
+}
+.btn-ins{
+    color: blue;
+    
+
+}
+#form-inscription input{
+    margin-bottom: 13px;
+}
+table {
+    border: medium solid red(0, 0, 0, 0.493);;
+    width: 50%;
+    text-align: center;
+    margin-left: 400px;
+    
+    border-radius:400px;
+
+    
+    }
+    th {
+    font-family: monospace;
+    border: medium solid red(0, 0, 0, 0.493);;
+    width: 50%;
+    padding: 5px;
+    background-color: gray;
+    font-size: 30px ;
+    font-style: oblique;
+    border-color:red(0, 0, 0, 0.493);;
+
+}
+    
+    td {
+    font-family: 'Lucida Sans';
+    border:  medium solid red;
+    width: 50%;
+    padding: 5px;
+    font-size: 20px ;
+
+    text-align: center;
+    background-color: white(209, 34, 34) ;
+    border-color:rgba(0, 0, 0, 0.493);
+    }
+.bg {
+     float: left;
+     margin-left: 150px;
+    }
+.left {
+     float: left;
+     margin-left: 100px;
+    }
+.prst {
+    float: left;
+     margin-left: 500px;
+}
+
+.right {
+  float: right;
+  margin-right: 900px;  
+}
+.prog  {
+    margin-left: 10px;
+}
+.use{
+    float: right;
+    margin-right: 800px;
+}
+.gest{
+    margin-left: 312px;
+}
+
+html {
+    height: 100%;
+  }
+  body {
+    min-height: 100%;
+    
+    
+    padding: 0;
+    position:relative;
+  }
+
+
+footer {
+    position: fixed; 
+    bottom: 0;
+    left: 0; 
+    right: 0;
+    height:50px;
+}
+.js-error{
+    text-align:center;
+}
